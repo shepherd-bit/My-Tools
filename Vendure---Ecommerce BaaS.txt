@@ -1,0 +1,4 @@
+Vendure
+
+What it is: A headless commerce framework built with TypeScript, NestJS, and GraphQL.   
+Why it fits: It is designed for developer flexibility, featuring a plugin system that makes extending order workflows, shipping calculations, and product variants clean and maintainable.

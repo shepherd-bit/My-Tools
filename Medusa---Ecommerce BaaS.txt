@@ -1,0 +1,4 @@
+Medusa 
+
+What it is: A modular, open-source headless commerce engine built in Node.js.
+Why it fits: It acts like a specialized BaaS for shopping. It comes out of the box with carts, multi-currency pricing, inventory management, region settings, and payment integrations (like Stripe), while letting you build a completely custom frontend.   

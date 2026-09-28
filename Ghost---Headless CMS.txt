@@ -1,0 +1,1 @@
+Ghost CMS is a popular, open-source content management system written in JavaScript (Node.js) that is explicitly designed for professional publishing, blogging, and independent newsletters. 
